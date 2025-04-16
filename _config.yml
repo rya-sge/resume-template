@@ -47,12 +47,12 @@ resume_section_associations:    true
 resume_social_links:
   resume_github_url:            "https://github.com/rya-sge"
   resume_twitter_url:           "https://x.com/ADCDIII"
-  resume_dribbble_url:          ""
+  resume_dribbble_url:         
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/ryan-sge/"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "https://rya-sge.github.io/access-denied/"
-  resume_medium_url:            ""
+  resume_medium_url:           
 resume_print_social_links:      true
 
 # Design settings

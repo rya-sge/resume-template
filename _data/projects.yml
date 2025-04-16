@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: CMTAT
+  role: Smart Contract Developer
+  duration: 2022 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Security token framework to tokenize financial instruments on Ethereum and EVM compatible blockchain.
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
