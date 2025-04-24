@@ -1,24 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
+# CMTAT
 - project: CMTAT
   role: Smart Contract Developer
   duration: 2022 &mdash; Present
   url: "https://github.com/CMTA/CMTAT"
   description: Security token framework to tokenize financial instruments on Ethereum and EVM compatible blockchain.
 
+# Chainlink CCIP
 - project: Chainlink CCIP Sender contract
   role: Smart Contract Developer
   duration: 12/2023 &mdash; 05/2025
   url: "https://github.com/taurushq-io/tg-bridge-contracts-CCIP"
-  description: <p>Study of the CCIP cross-chain bridge by Chainlink with the transfer of USDC between different blockchains as proof-of-concept. 
-  Two articles were published on the Taurus blog, as well as a github project (Sender contract to interact with CCIP).</p>
-
-
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: <ul><li>Study of the CCIP cross-chain bridge by Chainlink with the transfer of USDC between different blockchains as proof-of-concept</li>.<li>Two articles were published on the Taurus blog, as well as a github project (Sender contract to interact with CCIP).</li>
