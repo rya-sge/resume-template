@@ -1,16 +1,15 @@
 # Jobs
-# VP of Global Communications
+# Security engineer
 - company: Taurus SA
   position: Security engineer
   duration: 12/2022 - 
   summary: <ul><li>Development of smart contracts (Solidity) with Foundry, Hardhat and Truffle</li><li>Analyse of smart contracts written in Solidity and SmartPy(Tezos)</li><li>Consultant for clients on issues related to Blockchain and smart contracts</li><li>R&D in cross-chain bridges and new innovations in the field of blockchain (e.g. account abstraction)</li><li>Several publications on the Taurus blog on Tokenization and cross-chain bridge (Chainlink CCIP)</li>
 
-# Director of Digital Stratgy
-- company: 
-  position:
-  duration:  
-  summary: 
-
+# DPenetration Tester
+- company: Confidential
+  position: Penetration Tester (external consultant / internship)
+  duration: 10/2021 - 02/2022
+  summary: Security audit in a software company carried out as part of a course at HEIG-VD, about 200 hours performed
 
 # Communications Coordinator
 - company: 
